@@ -1,0 +1,30 @@
+.page-title {
+    color: rgb(255, 111, 0);
+}
+
+body{
+    background-color:burlywood;
+}
+
+:root{
+    --primary-color-highlight: #2f431a;
+    --bs-body-font-family:'Montserrat', sans-serif;
+}
+
+.eye-vid {
+    position: relative;
+    top:auto;
+    left:auto;
+    min-width: 10%;
+    min-height: 10%;
+    width: 100%;
+    height: 100%;
+
+}
+.bio-text {
+    color:rgba(232, 96, 11, 0.908)
+}
+
+
+
+
